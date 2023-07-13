@@ -1,0 +1,12 @@
+- የሚሰሩ ስራዎች Plan of Action
+
+- initialize our Node JS project DONE
+- Initialize our first view DONE
+- CREATE A ROOM ID DONE
+- Add the ability to view our own video done
+- add ability to allow wothers to stream their video
+- add styling.
+- add the ability to create cesages
+- add mute button
+- add stop bideo button
+-
